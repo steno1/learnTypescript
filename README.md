@@ -1,3 +1,6 @@
+This code was wrote in order to learn how to use typescript in a react project and also how to implement typescript with contextApi
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
